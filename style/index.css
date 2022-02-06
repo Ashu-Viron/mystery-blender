@@ -1,0 +1,8 @@
+a {color: white;
+text-decoration: none;
+border-radius: 4px;
+font-size: 28px;
+padding: 6px;
+background-color: hotpink;
+}
+a:hover {font-size: 34px;}
